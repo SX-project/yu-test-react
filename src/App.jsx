@@ -39,5 +39,3 @@ const App = () => {
 }
 
   export default App;
-
-  //Github確認
